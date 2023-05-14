@@ -4,5 +4,5 @@
 
 # Наши координаты:
 
-e-mail: isheriphadze@gmail.com
+e-mail: isheriphadze@gmail.com,
 mob: +995(555)45 92 70, Имеда Шерифадзе
